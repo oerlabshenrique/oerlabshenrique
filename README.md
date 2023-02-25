@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 ## OER Labs 👋
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [Git da OER Labs](https://github.com/oerlabshenrique)
+Sistema de estudo para os sistemas da OER Tecnpolopgia! Por aqui vamos analisar os projetos da OER Tecnologia! [Git da OER Labs](https://github.com/oerlabshenrique)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oerlabshenrique&show_icons=true&theme=tokyonight"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oerlabshenrique&layout=compact&langs_count=16&theme=dracula"/>
  
