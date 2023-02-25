@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 
 [:octocat: Git da OER Labs](https://github.com/oerlabshenrique)
-      <h6>Sistema de estudo para a [OER Tecnologia](http://oertecnologia.com.br/)! Por aqui vamos analisar os projetos da [OER Tecnologia](http://oertecnologia.com.br/)!</h6>
+      <h6>Sistema de estudo para a [OER Tecnologia](http://oertecnologia.com.br/)! 
+      Por aqui vamos analisar os projetos da [OER Tecnologia](http://oertecnologia.com.br/)!</h6>
 
 <h6>
 Projeto: OER Labs<br>
