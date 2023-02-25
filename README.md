@@ -16,11 +16,14 @@ Here are some ideas to get you started:
 
 ## OER Labs 👋
 
-Sistema de estudo para a OER Tecnpolopgia! Por aqui vamos analisar os projetos da OER Tecnologia! [Git da OER Labs](https://github.com/oerlabshenrique)
+Sistema de estudo para a OER Tecnologia! Por aqui vamos analisar os projetos da OER Tecnologia! [Git da OER Labs](https://github.com/oerlabshenrique)
 
   ##
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oerlabshenrique&show_icons=true&theme=tokyonight"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oerlabshenrique&layout=compact&langs_count=16&theme=dracula"/>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rico-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
