@@ -23,7 +23,7 @@ Sistema de estudo para a OER Tecnologia! Por aqui vamos analisar os projetos da 
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oerlabshenrique)](https://github.com/oerlabshenrique/github-readme-stats)
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oerlabshenrique&show_icons=true&theme=dark)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oerlabshenrique&show_icons=true&theme=radical)
 
 
  
