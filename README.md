@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-## OER Labs
+## OER Labs 👋
 
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
 mas você pode adicionar a sua própria, seguindo esse [Git da OER Labs](https://github.com/oerlabshenrique)
