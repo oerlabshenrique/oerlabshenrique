@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 ## OER Labs 👋
 
-Sistema de estudo para a OER Tecnologia! Por aqui vamos analisar os projetos da OER Tecnologia! [Git da OER Labs](https://github.com/oerlabshenrique)
-
 
 [:octocat: Git da OER Labs](https://github.com/oerlabshenrique)
       <h6>Sistema de estudo para a OER Tecnologia! Por aqui vamos analisar os projetos da OER Tecnologia! [Git da OER Labs](https://github.com/oerlabshenrique)</h6>
