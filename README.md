@@ -25,6 +25,7 @@ Sistema de estudo para a OER Tecnologia! Por aqui vamos analisar os projetos da 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oerlabshenrique&layout=compact&langs_count=16&theme=dracula"/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 
  
