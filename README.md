@@ -18,6 +18,19 @@ Here are some ideas to get you started:
 
 Sistema de estudo para a OER Tecnologia! Por aqui vamos analisar os projetos da OER Tecnologia! [Git da OER Labs](https://github.com/oerlabshenrique)
 
+
+[:octocat: Git da OER Labs](https://github.com/oerlabshenrique)
+      <h6>Sistema de estudo para a OER Tecnologia! Por aqui vamos analisar os projetos da OER Tecnologia! [Git da OER Labs](https://github.com/oerlabshenrique)</h6>
+
+
+<h6>
+Projeto: OER Labs<br>
+URL: https://oerlabs.com.br/ <br>
+Autor: Henrique Olivetti <br>
+Email: henrique@oerlabs.com.br<br> 
+Celular: 21 99523-8400</h6><br>
+<h6>
+
   ##
   
  
@@ -43,9 +56,4 @@ Sistema de estudo para a OER Tecnologia! Por aqui vamos analisar os projetos da 
  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" target="_blank"></a>
  <a href="https://instagram.com/rafaballerini" target="_blank"><a href="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" target="_blank"></a>
  
-
-  
 </div>
-
-
-
