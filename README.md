@@ -20,10 +20,6 @@ Sistema de estudo para a OER Tecnologia! Por aqui vamos analisar os projetos da 
 
   ##
   
-  
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oerlabshenrique)](https://github.com/oerlabshenrique/github-readme-stats)
- 
- 
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rico-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
