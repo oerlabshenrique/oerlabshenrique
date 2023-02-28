@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [:octocat: Git da OER Labs](https://github.com/oerlabshenrique)
       <h6>Sistema de testes para a [OER Tecnologia](http://oertecnologia.com.br/)!<br>
-      Por aqui vamos analisar todos os projetos [OER Tecnologia](http://oertecnologia.com.br/)!</h6>
+      Por aqui os projetos são verificados [OER Tecnologia](http://oertecnologia.com.br/)!</h6>
 
 <h6>
 Projeto: OER Labs<br>
