@@ -26,7 +26,7 @@ Here are some ideas to get you started:
       
  
     Projeto: OER Labs
-    Autor: OER Tecnologia 
+    Autor: Henrique Olivetti 
     URL: https://oerlabs.com.br/ 
     Email: henrique@oerlabs.com.br
 
