@@ -27,6 +27,18 @@ URL: https://oerlabs.com.br/ <br>
 Autor: Henrique Olivetti <br>
 Email: henrique@oerlabs.com.br<br><br>
 <h6>
+      
+      
+      
+ 
+    Projeto: Navegar+<br>
+    URL: https://navegarmais.com.br/ 
+    
+    Autor: OER Tecnologia 
+    URL: https://oertecnologia.com.br/ 
+    Email: luiz@oertwcnologia.com.br
+
+      
 
   ##
   
