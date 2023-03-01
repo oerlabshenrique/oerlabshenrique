@@ -17,11 +17,8 @@ Here are some ideas to get you started:
 ## ⚡ OER Labs 👋
 
 
-Sistema de testes para a OER Tecnologia! Por aqui os produtos são verificados e testados antes de serem entregues ao clientes...
  
- 
- 
-* 🌍  Sistema de testes para a OER Tecnologia
+* 🌍  Sistema de testes para a OER Tecnologia! Por aqui os produtos são verificados e testados antes de serem entregues ao clientes...
 * 🖥️  Nosso site  [OER Labs](http://oerlabs.com.br)
 * ✉️  Email [henrique@oerabs.com.br](mailto:henrique@oerabs.com.br)
  
