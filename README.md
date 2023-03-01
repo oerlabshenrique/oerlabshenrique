@@ -31,7 +31,7 @@ Email: henrique@oerlabs.com.br<br><br>
       
       
  
-    Projeto: Navegar+<br>
+    Projeto: OER Labs<br>
     URL: https://navegarmais.com.br/ 
     
     Autor: OER Tecnologia 
