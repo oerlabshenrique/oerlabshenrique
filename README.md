@@ -21,22 +21,14 @@ Here are some ideas to get you started:
       <h6>Sistema de testes para a [OER Tecnologia](http://oertecnologia.com.br/)!<br>
       Por aqui os produtos são verificados e testados antes de serem entregues ao clientes...</h6>
 
-<h6>
-Projeto: OER Labs<br>
-URL: https://oerlabs.com.br/ <br>
-Autor: Henrique Olivetti <br>
-Email: henrique@oerlabs.com.br<br><br>
-<h6>
-      
+
       
       
  
     Projeto: OER Labs
-    URL: https://navegarmais.com.br/ 
-    
     Autor: OER Tecnologia 
-    URL: https://oertecnologia.com.br/ 
-    Email: luiz@oertwcnologia.com.br
+    URL: https://oerlabs.com.br/ 
+    Email: henrique@oerlabs.com.br
 
       
 
