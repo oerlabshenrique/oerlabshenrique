@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 ## ⚡ OER Labs 👋
 
+[:octocat: Git da OER Labs](https://github.com/oerlabshenrique)      
+
 
       <h6>Sistema de testes para a [OER Tecnologia](http://oertecnologia.com.br/)!<br>
       Por aqui os produtos são verificados e testados antes de serem entregues ao clientes...</h6>
@@ -29,7 +31,6 @@ Here are some ideas to get you started:
     URL: https://oerlabs.com.br/ 
     Email: henrique@oerlabs.com.br
 
-[:octocat: Git da OER Labs](https://github.com/oerlabshenrique)      
 
   ##
   
