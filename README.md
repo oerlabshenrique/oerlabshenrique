@@ -19,8 +19,11 @@ Here are some ideas to get you started:
 
  
 * 🖥️ Sistema de testes para a OER Tecnologia! Por aqui os produtos são verificados e testados antes de serem entregues ao clientes...
+* 🌍 Site  [OER Associados](http://oerassociados.com.br)
 * 🌍 Site  [OER Labs](http://oerlabs.com.br)
+* 🌍 Facebook  [OER Associados](https://www.facebook.com/oertecnologia)
 * 🌍 Facebook  [OER Labs](https://www.facebook.com/oerlabs)
+* ✉️ Email [henrique@oerassociados.com.br](mailto:henrique@oerassociados.com.br)
 * ✉️ Email [henrique@oerabs.com.br](mailto:henrique@oerabs.com.br)
  
  .
