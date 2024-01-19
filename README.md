@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
  
-* 🖥️ Sistema de testes OER Tecnologia! Por aqui os projetos são autenticados antes de serem entregues ao clientes...
+* 🖥️ Sistema de testes OER Tecnologia! Por aqui os projetos são autenticados antes de serem entregues aos clientes.
   
   <br>
   
